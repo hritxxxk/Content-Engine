@@ -20,10 +20,10 @@ The Content Engine is a Python-based system designed to analyze, compare, and ex
    ```bash
    streamlit run app.py
 4.Upload PDF documents and interact with the chatbot interface for document analysis.
-Sample Queries
-Risk Factors: "What are the risk factors associated with Google and Tesla?"
-Revenue Comparison: "What is the total revenue for Google Search?"
-Business Model Differences: "What are the differences in the business of Tesla and Uber?"
-Notes
+## Sample Queries
+**Risk Factors**: "What are the risk factors associated with Google and Tesla?"
+**Revenue Comparison**: "What is the total revenue for Google Search?"
+**Business Model Differences**: "What are the differences in the business of Tesla and Uber?"
+## Notes
 Replace placeholder components like OpenAI() with a local LLM for full local processing.
 Ensure all dependencies and models are configured before running the application.
